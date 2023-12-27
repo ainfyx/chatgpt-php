@@ -110,11 +110,11 @@ $(document).ready(function () {
         return false;
     });
 
-    function send_post() {
-        if (($('#key').length) && ($('#key').val().length != 51)) {
-            layer.msg("请输入正确的API-KEY", { icon: 5 });
-            return;
-        }
+    // function send_post() {
+    //     if (($('#key').length) && ($('#key').val().length != 51)) {
+    //         layer.msg("请输入正确的API-KEY", { icon: 5 });
+    //         return;
+    //     }
 
         var prompt = $("#kw-target").val();
 
