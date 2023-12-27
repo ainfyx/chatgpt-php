@@ -28,7 +28,7 @@ $type = "个人";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <title>ChatGPT<?= $type ?>专用版</title>
+    <title>ChatGPT专用版</title>
     <link rel="stylesheet" href="css/common.css?v1.1">
     <link rel="stylesheet" href="css/wenda.css?v1.1">
     <link rel="stylesheet" href="css/hightlight.css">
@@ -42,7 +42,7 @@ $type = "个人";
                     <h2 class="logo"><a class="links" id="clean" title="清空对话信息"><span class="logo-title">清空对话信息</span></a></h2>
                 </div>
                 <div class="header-logo">
-                    <h2 class="logo"><a class="links" href="https://github.com/dirk1983/chatgpt"><span class="logo-title">获取源码</span></a></h2>
+<!--                     <h2 class="logo"><a class="links" href="https://github.com/dirk1983/chatgpt"><span class="logo-title">获取源码</span></a></h2> -->
                 </div>
             </div>
         </header>
